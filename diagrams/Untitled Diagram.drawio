@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-13T14:53:03.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="xfaOyrtVEFAErqWRISbe" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-13T17:36:07.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="shWxoFEsfxrNE-TGiIgK" version="12.2.4" type="github" pages="1">
   <diagram id="M97hs2_HC8HgjVDWB4YS" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry x="40" y="610" width="130" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-15" value="Stores a permanent list of indices that have been received" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="500" y="570" width="130" height="60" as="geometry"/>
+          <mxGeometry x="495" y="560" width="130" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Fmpw5taHjIPhEGAoOGa0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fmpw5taHjIPhEGAoOGa0-2" target="aY1_7Sm5C_Fnvaw5D3gU-1">
           <mxGeometry relative="1" as="geometry"/>
