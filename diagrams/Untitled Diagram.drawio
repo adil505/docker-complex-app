@@ -1,1 +1,61 @@
-<mxfile host="www.draw.io" modified="2019-11-13T14:43:06.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="e1_RgSbXjDQ949pcpE68" version="12.2.4" type="github" pages="1"><diagram id="M97hs2_HC8HgjVDWB4YS" name="Page-1">7VnbbuM2EP0aPyYQKUtOHhMnu31ogaDGIs3TghbHEjcUqVKUL/36kiJlSZaTeNvdyEELGLZmyOHlzJkZip6E83z7WZEi+01S4BMc0O0kvJtgjKYYT+wnoDunmV1PnSJVjPpOrWLB/gKvDLy2YhTKXkctJdes6CsTKQQkuqcjSslNv9tK8v6sBUlhoFgkhA+1j4zqzGmv8KzV/wIszZqZUXztWnLSdPY7KTNC5aajCu8n4VxJqd1Tvp0Dt+A1uDi7Ty+07hemQOhTDMgT+jpb5NH86yexJpvoLky/XPhR1oRXfsNfSlB2tdUyZ7o0T6LKl1ZV70HvGmCUrAQFO3YwCW83GdOwKEhiWzeGCkaX6ZwbCZlHPwsoDdsXl4/2oBg2gcxBq53p0hgEHkdPpCsvblqvoAbqrOOR2OuIJ0K6H7nFyjx4uL4DuqsBJEANdbwolc5kKgXh9632tg9a2+dXKQsP1TfQeufjgFRa9oGELdN/WPPLyEtPnZa7rR+5FnaNIMx2O0ZWfOq2tWa11Ni5/dlNve4yg4GsVAKvYOWTgCYqBf1Kv/A4BRRwotm6v44f7lA8iIXfgZiUgoObohid/yE+M/5fj8t//KECIDwxAKZjBkBTc8dy6ewfuTTuuvQiuAzQ7A2/1tIDKGZgM5VtNGdHYzo7HGS7+22hoLQlfwFqfQYl/zDlodFzHkIDUD5A0sNjZb3piYEQjxkI0yNln7JydPajuM/+8St+NEDqQZY6dUljZLSmV+eGFsJnVE2DU3PFrJcr0PvlivgjnJDiQQQ8SvV8BqXyMFmE12PTfzaAahgOgt7YKxojJZyUJUuOcxl1ibx/8X2Lyr2a1x78fz6Tm2uqt5iMj3u047HoiMMa3cmE9zM8SCb0y9cpET4ggtumt+peKx0OFPUHms4OBnI4DAaqSbXf9r9Is8OD7EJLU5PsEpy5oCxxsqDmOyE8qQx4QBuz0i0XB8+wu3ADWdczNaxrJkR1n6WlVvIZ5pJL+yohpLB5fMU4P1ARzlJhqW4IZd86bm3AM7OYG9+QM0rrInAsXfQTykoK3RQS3MiuJKAflFHwCfU0fNd6OjyoPRKdZLX3lDuyBStpLy8FbFq/X05wzK3PlqrnyvjPyl691thdlDV4N6YDQsW2RrBpN0+p/X2oOLdTAEmy7hwGYTzv0qrctzZU0hkIC35VX6gyGz1LkjzX9qaA75f/P9deLl7vy7XhUbdNKnZroHIioM6DnJX2R656qUZnxGozsrYEWEJNAAUJmJRN/7uePjymh9HPc7UR239XXLlp/6MK7/8G</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-13T14:53:03.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="xfaOyrtVEFAErqWRISbe" version="12.2.4" type="github" pages="1">
+  <diagram id="M97hs2_HC8HgjVDWB4YS" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Fmpw5taHjIPhEGAoOGa0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aY1_7Sm5C_Fnvaw5D3gU-1" target="aY1_7Sm5C_Fnvaw5D3gU-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-1" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aY1_7Sm5C_Fnvaw5D3gU-2" target="aY1_7Sm5C_Fnvaw5D3gU-3" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-2" value="React App" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aY1_7Sm5C_Fnvaw5D3gU-3" target="aY1_7Sm5C_Fnvaw5D3gU-4" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.6;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aY1_7Sm5C_Fnvaw5D3gU-3" target="aY1_7Sm5C_Fnvaw5D3gU-5" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-3" value="Express Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="400" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aY1_7Sm5C_Fnvaw5D3gU-4" target="aY1_7Sm5C_Fnvaw5D3gU-6" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-4" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="500" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-5" value="Postgress" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="500" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aY1_7Sm5C_Fnvaw5D3gU-6" target="aY1_7Sm5C_Fnvaw5D3gU-4" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-6" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="610" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-13" value="Stores all indices and calculated values as key-value pairs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="40" y="500" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-14" value="Watches redis for new indices.&lt;br style=&quot;font-size: 11px;&quot;&gt;Pulls each new index, calculates new value then puts it back into redis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="40" y="610" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aY1_7Sm5C_Fnvaw5D3gU-15" value="Stores a permanent list of indices that have been received" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="500" y="570" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fmpw5taHjIPhEGAoOGa0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fmpw5taHjIPhEGAoOGa0-2" target="aY1_7Sm5C_Fnvaw5D3gU-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fmpw5taHjIPhEGAoOGa0-2" value="User input through browser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
